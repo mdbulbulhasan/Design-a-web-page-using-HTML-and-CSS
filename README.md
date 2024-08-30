@@ -18,3 +18,4 @@ Approach:
 
 -> Implement media queries for a responsive layout on different devices.
 
+Page link- https://mdbulbulhasan.github.io/Design-a-web-page-using-HTML-and-CSS/
